@@ -1,0 +1,23 @@
+
+
+.leftCol {
+
+    float: left;
+    width: 70%;
+    background: lightgray;
+    margin: 10px;
+    font-size: 18px;
+    border-color: blueviolet;
+    font-family: sans-serif
+}
+
+.rightCol {
+    float: right;
+    width: 25%;
+    background: lightgray;
+    margin: 0;
+    font-size: 18px;
+    border-color: blueviolet;
+    font-family: sans-serif;
+    padding: 10px;
+}
